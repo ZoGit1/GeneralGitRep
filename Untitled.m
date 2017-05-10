@@ -1,7 +1,7 @@
 % !git init
 % !git add -A
 % !git commit -m "First commit.
-%!git remote add origin https://github.com/ZoGit1/GeneralGitRep.git "
+%!git remote add origin https://github.com/ZoGit1/GeneralGitRep.git 
 % !git push -u origin master
 % 
 
